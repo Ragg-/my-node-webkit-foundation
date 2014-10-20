@@ -1,0 +1,7 @@
+{
+    "name"          : "",
+    "main"          : "entry.html",
+    "chromium-args" : "",
+
+    "window" : {}
+}
